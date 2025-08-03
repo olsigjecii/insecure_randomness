@@ -1,5 +1,6 @@
-README.md
-Insecure Randomness in Rust
+
+# Insecure Randomness in Rust 🦀
+
 This lesson demonstrates the security vulnerability known as Insecure Randomness within a Rust application built with the actix-web framework. We will explore how predictable "random" values can be exploited and how to implement a secure, truly random alternative.
 
 Lesson Summary
